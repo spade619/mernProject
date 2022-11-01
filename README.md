@@ -1,0 +1,3 @@
+# mernProject
+#this is a simple GYM workout tracker system using (MongoDB, Express.js, React.js and Node.js)
+by Alnil Tanudtanud, complete with user authentication using JWT or json web token for user login and register authentication...
